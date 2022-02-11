@@ -11,7 +11,7 @@
 #
 
 # Add themes
-git clone https://github.com/XXKDB/luci-theme-argon_armygreen.git package/luci-theme-argon_armygreen
+#git clone https://github.com/XXKDB/luci-theme-argon_armygreen.git package/luci-theme-argon_armygreen  # argon-lr 已存在
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
 git clone https://github.com/toss-a/luci-theme-atmaterial.git package/luci-theme-atmaterial
 git clone https://github.com/virualv/luci-theme-pink.git package/luci-theme-pink
