@@ -14,7 +14,6 @@
 git clone https://github.com/XXKDB/luci-theme-argon_armygreen.git package/luci-theme-argon_armygreen
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
 git clone https://github.com/toss-a/luci-theme-atmaterial.git package/luci-theme-atmaterial
-git clone https://github.com/virualv/luci-theme-pink.git package/luci-theme-pink
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
